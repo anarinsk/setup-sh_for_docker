@@ -17,8 +17,7 @@ docker를 위한 sh 파일 모음
 ## Parts Made 
 
 - `prepare_ubuntu.sh`: apt update 및 저장소 변경 
-- `install_nanum.sh`: 나눔 한글 폰트 설치 
-
+- `install_nanum.sh`: 나눔 한글 폰트 설치 [Jupyter 한글 활용](https://anarinsk.github.io/lostineconomics-v2-1/docker/data-science/2020/09/24/install-hangul-in-docker.html)
 
 ## Mixed Styles
 
